@@ -1,0 +1,74 @@
+/*
+*Dodger-blue : #00a3d3
+*/
+
+::selection{
+  background: #4891EF;
+  color: #fff;
+}
+
+::-moz-selection {
+  background: #4891EF;
+  color: #fff;
+}
+#preloader,
+.sticky-wrapper.is-sticky .navbar-custom,
+#subscribe,
+.contact-section .contact-info,
+.back-to-top:hover, .btn-custom, 
+.scroll-indicator.go-top:before,
+.scroll-indicator:before, 
+.scroll-indicator:after,
+.dropdown-menu>li>a:focus, 
+.dropdown-menu>li>a:hover{
+    background-color:#4891EF !important;
+}
+
+.home-fullscreen::after{
+    background-color: rgba(72, 145, 239, 01);
+}
+.btn,.feature-img,
+.contact-section .contact-info,
+.inner-box.active{
+    -webkit-box-shadow: 0px 0px 60px 0px rgba(72, 145, 239, 1);
+    -moz-box-shadow: 0px 0px 60px 0px rgba(72, 145, 239, 1);
+    box-shadow: 0px 0px 60px 0px rgba(72, 145, 239, 1);
+}
+.btn-custom{
+    border:2px solid #00a3d3 !important;
+}
+.btn-white-fill, .text-custom, 
+.btn-white-bordered:hover, 
+.btn-custom:hover, 
+.features-box i, .pricing-column .plan-title,
+.team-social ul li a,
+#contact .text-danger, 
+.appstore-btn,.appstore-btn i{
+    color: #4891EF !important ;
+}
+.fa, .fas, .far {
+color: #4891EF;
+}
+.white {
+    color:white;
+}
+.team-member{
+    -webkit-box-shadow: 0px 0px 60px 0px rgba(72, 145, 239, 0.4);
+    -moz-box-shadow: 0px 0px 60px 0px rgba(72, 145, 239, 0.4);
+    box-shadow: 0px 0px 60px 0px rgba(72, 145, 239, 0.4);   
+}
+.form-control:focus,
+.about-story-content h1 + hr{
+    border-color:#4891EF !important;
+}
+.alert-danger{
+    color: #ffffff;
+    background-color: #4891EF;
+    /* border-color: #ebccd1; */
+    box-shadow: 0 0 60px 0 rgba(72, 145, 239, 0.47);
+
+}
+
+.color {
+  color: #4891EF; /* dodger blue */
+}
